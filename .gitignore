@@ -1,0 +1,6 @@
+*.log
+*.iml
+.idea
+.jpg
+.java
+/Security.txt
