@@ -1,0 +1,6 @@
+*.log
+*.iml
+.idea
+.jpg
+PrimitiveTypes
+/Security.txt
