@@ -1,0 +1,9 @@
+Security
+
+1. Change Screen Server Settings in Search
+2. D:\Client
+3. Control Panel\System and Security\Windows Defender Firewall
+4. Control Panel\Hardware and Sound\AutoPlay
+5. Update Windows
+6. Antivirus
+7. folders on the local device, including Trash, for any Estafet and client information assets
