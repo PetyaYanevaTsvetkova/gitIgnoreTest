@@ -1,6 +1,7 @@
 *.log
 *.iml
 .idea
-.jpg
-.java
-/Security.txt
+*.jpg
+*.java
+csv.txt
+Security.txt
